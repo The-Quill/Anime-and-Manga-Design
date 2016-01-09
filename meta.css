@@ -1,0 +1,21 @@
+#hlogo a {
+    background: transparent url(https://raw.githubusercontent.com/The-Quill/Anime-and-Manga-Design/master/resources/images/meta-logo.png) no-repeat left top;
+    width: 400px;
+    margin-top: 5px;
+    height: 164px;
+    background-size: 87% 50%;
+    font-size: 0;
+}
+.youarehere {
+    color: black;
+}
+#tabs a:hover,
+.tabs a:hover,
+.nav ul a:hover,
+#tabs a.youarehere,
+.tabs a.youarehere,
+.nav li.youarehere a,
+.nav ul .youarehere a {
+    color: black;
+    border-bottom: 2px solid black;
+}
